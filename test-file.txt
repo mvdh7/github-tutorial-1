@@ -1,4 +1,4 @@
 NIOZ sed sensors:
 
 ASED
-optical SED
+SED-I
