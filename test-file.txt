@@ -2,4 +2,3 @@ NIOZ sed sensors:
 
 ASED
 SED-I
-SED-II
