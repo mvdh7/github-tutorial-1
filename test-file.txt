@@ -3,3 +3,5 @@ NIOZ sed sensors:
 ASED
 SED-I
 SEd-II
+
+Water sensors are better though
