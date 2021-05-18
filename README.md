@@ -7,3 +7,5 @@ This is a readme file about the tutorial of NIOZ.
   * test-file.txt
 
 [NIOZ](http://www.nioz.nl)
+
+NIOZ is based in the Netherlands
